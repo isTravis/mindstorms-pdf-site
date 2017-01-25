@@ -1,6 +1,6 @@
 body {
 	margin: 40px auto;
-	max-width: 650px;
+	max-width: 700px;
 	line-height: 1.6;
 	font-size: 18px;
 	color: #444;
@@ -16,11 +16,13 @@ p {
     margin: 1.25em 0em;
 }
 
-.center {
-    text-align: center;
+.small {
+    font-size: 0.85em;
+    color: #777;
 }
 
 .button {
+    margin: 1em 0em;
     padding: .5em 1em;
     color: rgba(0,0,0,.8);
     border: 1px solid #999;
