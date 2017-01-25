@@ -12,6 +12,14 @@ h1,h2,h3 {
 	line-height: 1.2
 }
 
+p {
+    margin: 1.25em 0em;
+}
+
+.center {
+    text-align: center;
+}
+
 .button {
     padding: .5em 1em;
     color: rgba(0,0,0,.8);
